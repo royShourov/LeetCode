@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/SRmohakal/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SRmohakal/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/SRmohakal/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SRmohakal/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SRmohakal/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/SRmohakal/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3668-restore-finishing-order](https://github.com/SRmohakal/LeetCode/tree/master/3668-restore-finishing-order) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SRmohakal/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SRmohakal/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/SRmohakal/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SRmohakal/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SRmohakal/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3817-maximum-containers-on-a-ship](https://github.com/SRmohakal/LeetCode/tree/master/3817-maximum-containers-on-a-ship) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/SRmohakal/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
