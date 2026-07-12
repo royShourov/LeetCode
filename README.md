@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SRmohakal/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SRmohakal/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/SRmohakal/LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [1331-rank-transform-of-an-array](https://github.com/SRmohakal/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SRmohakal/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/SRmohakal/LeetCode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SRmohakal/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/SRmohakal/LeetCode/tree/master/0724-find-pivot-index) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SRmohakal/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SRmohakal/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1331-rank-transform-of-an-array](https://github.com/SRmohakal/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/SRmohakal/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SRmohakal/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SRmohakal/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SRmohakal/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SRmohakal/LeetCode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SRmohakal/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1331-rank-transform-of-an-array](https://github.com/SRmohakal/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SRmohakal/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SRmohakal/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/SRmohakal/LeetCode/tree/master/3759-choose-k-elements-with-maximum-sum) |
