@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/SRmohakal/LeetCode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3790-fruits-into-baskets-ii](https://github.com/SRmohakal/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/SRmohakal/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SRmohakal/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/SRmohakal/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3934-coupon-code-validator](https://github.com/SRmohakal/LeetCode/tree/master/3934-coupon-code-validator) |
 ## Math
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SRmohakal/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SRmohakal/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3817-maximum-containers-on-a-ship](https://github.com/SRmohakal/LeetCode/tree/master/3817-maximum-containers-on-a-ship) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SRmohakal/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/SRmohakal/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/SRmohakal/LeetCode/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
 ## Design
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SRmohakal/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2551-apply-operations-to-an-array](https://github.com/SRmohakal/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SRmohakal/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SRmohakal/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SRmohakal/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SRmohakal/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/SRmohakal/LeetCode/tree/master/3759-choose-k-elements-with-maximum-sum) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SRmohakal/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3934-coupon-code-validator](https://github.com/SRmohakal/LeetCode/tree/master/3934-coupon-code-validator) |
 ## Backtracking
 |  |
@@ -300,11 +304,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SRmohakal/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/SRmohakal/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/SRmohakal/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SRmohakal/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/SRmohakal/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/SRmohakal/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SRmohakal/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
 | ------- |
