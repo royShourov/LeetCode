@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SRmohakal/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/SRmohakal/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/SRmohakal/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SRmohakal/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3668-restore-finishing-order](https://github.com/SRmohakal/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/SRmohakal/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3799-unique-3-digit-even-numbers](https://github.com/SRmohakal/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SRmohakal/LeetCode/tree/master/0169-majority-element) |
 | [1160-letter-tile-possibilities](https://github.com/SRmohakal/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SRmohakal/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SRmohakal/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/SRmohakal/LeetCode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Array
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SRmohakal/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/SRmohakal/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SRmohakal/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SRmohakal/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SRmohakal/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/SRmohakal/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3668-restore-finishing-order](https://github.com/SRmohakal/LeetCode/tree/master/3668-restore-finishing-order) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SRmohakal/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/SRmohakal/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SRmohakal/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SRmohakal/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SRmohakal/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3817-maximum-containers-on-a-ship](https://github.com/SRmohakal/LeetCode/tree/master/3817-maximum-containers-on-a-ship) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SRmohakal/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -152,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/SRmohakal/LeetCode/tree/master/0724-find-pivot-index) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SRmohakal/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SRmohakal/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SRmohakal/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Two Pointers
 |  |
 | ------- |
@@ -246,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/SRmohakal/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SRmohakal/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2665-minimum-time-to-repair-cars](https://github.com/SRmohakal/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SRmohakal/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3790-fruits-into-baskets-ii](https://github.com/SRmohakal/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -310,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/SRmohakal/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/SRmohakal/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SRmohakal/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SRmohakal/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
@@ -345,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/SRmohakal/LeetCode/tree/master/0912-sort-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/SRmohakal/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
