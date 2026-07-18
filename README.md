@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/SRmohakal/LeetCode/tree/master/0067-add-binary) |
 | [0796-rotate-string](https://github.com/SRmohakal/LeetCode/tree/master/0796-rotate-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/SRmohakal/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SRmohakal/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/SRmohakal/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/SRmohakal/LeetCode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/SRmohakal/LeetCode/tree/master/0396-rotate-function) |
 | [0477-total-hamming-distance](https://github.com/SRmohakal/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0788-rotated-digits](https://github.com/SRmohakal/LeetCode/tree/master/0788-rotated-digits) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/SRmohakal/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SRmohakal/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SRmohakal/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SRmohakal/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
