@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SRmohakal/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SRmohakal/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SRmohakal/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SRmohakal/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/SRmohakal/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/SRmohakal/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2181-smallest-index-with-equal-value](https://github.com/SRmohakal/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/SRmohakal/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SRmohakal/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SRmohakal/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SRmohakal/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/SRmohakal/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/SRmohakal/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/SRmohakal/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SRmohakal/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/SRmohakal/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/SRmohakal/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SRmohakal/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
