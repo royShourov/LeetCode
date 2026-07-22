@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SRmohakal/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/SRmohakal/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3934-coupon-code-validator](https://github.com/SRmohakal/LeetCode/tree/master/3934-coupon-code-validator) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/SRmohakal/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Math
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/SRmohakal/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SRmohakal/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SRmohakal/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/SRmohakal/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Greedy
 |  |
 | ------- |
