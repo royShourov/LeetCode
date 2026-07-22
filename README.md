@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SRmohakal/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SRmohakal/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SRmohakal/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/SRmohakal/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SRmohakal/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SRmohakal/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0396-rotate-function](https://github.com/SRmohakal/LeetCode/tree/master/0396-rotate-function) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SRmohakal/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/SRmohakal/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/SRmohakal/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/SRmohakal/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SRmohakal/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/SRmohakal/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SRmohakal/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
